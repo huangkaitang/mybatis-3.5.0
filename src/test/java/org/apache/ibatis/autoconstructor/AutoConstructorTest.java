@@ -32,7 +32,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 /**
- * 测试类
+ * 测试类2020/07/22
  */
 public class AutoConstructorTest {
   private static SqlSessionFactory sqlSessionFactory;
